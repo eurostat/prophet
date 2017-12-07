@@ -1,7 +1,7 @@
 prophet
 =======
 
-Applying Facebook `Prophet` model for forecasting ESTAT monthly indicators
+Applying Facebook `Prophet` model for forecasting Eurostat monthly indicators
 ---
 
 **About**
@@ -24,7 +24,7 @@ In practice, non-linear trends are fit with yearly and weekly seasonality (plus 
 
 Facebook has open sourced  [`Prophet software`](https://github.com/facebookincubator/prophet), a forecasting project with an [interface](https://pypi.python.org/pypi/fbprophet/) available in `Python`. We use this resource. 
 
-Run the [`tour_forecast.py`](tour_forecast.py) source code or explore the [`run_forecast.ipynb`](run_forecast.ipynb) notebook to produce the following 5-years forecast estimates of ESTAT [*tour_occ_nim*](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=tour_occ_nim&lang=en) monthly indicator:
+Run the [`tour_forecast.py`](tour_forecast.py) source code or explore the [`run_forecast.ipynb`](run_forecast.ipynb) notebook to produce the following 5-years forecast estimates of Eurostat [*tour_occ_nim*](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=tour_occ_nim&lang=en) monthly indicator:
 
 <img src="https://github.com/eurostat/prophet/blob/master/docs/tour_occ_nim_predict.png" alt="tour_occ_nim prediction" width="800">
 
