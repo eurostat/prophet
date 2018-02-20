@@ -8,6 +8,16 @@ Applying Facebook `Prophet` model for forecasting Eurostat monthly indicators
 
 This is a **blind/dummy** (no assumption whatsoever) application of  [`Prophet`](https://facebookincubator.github.io/prophet/) automatic procedure for forecast estimates of Eurostat [*tour_occ_nim*](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=tour_occ_nim&lang=en) time-series on the number of *"nights spent at tourist accommodation establishments"* per month.
 
+
+<table align="center">
+    <tr> <td align="left"><i>status</i></td> <td align="left">since 2017 &ndash; closed </td> </tr> 
+    <tr> <td align="left"><i>contributors</i></td> 
+    <td align="left" valign="middle">
+<a href="https://github.com/gjacopo"><img src="https://github.com/gjacopo.png" width="40"></a>
+</td> </tr> 
+    <tr> <td align="left"><i>license</i></td> <td align="left"><a href="https://joinup.ec.europa.eu/sites/default/files/eupl1.1.-licence-en_0.pdfEUPL">EUPL</a>  <i>(cite the source code or the reference above!)</i> </td> </tr> 
+</table>
+
 **Description**
 
 *(from the source [webpage](https://research.fb.com/prophet-forecasting-at-scale/))*
