@@ -1,7 +1,7 @@
 prophet
 =======
 
-Applying Facebook `Prophet` model for forecasting Eurostat monthly indicators
+Applying Facebook `Prophet` model for forecasting _Eurostat_ monthly indicators
 ---
 
 **About**
