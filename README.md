@@ -33,7 +33,7 @@ Another example is provided by the 1-year prediction of unemployment [*une_rt_m*
 **About**
 
 <table align="centre">
-    <tr> <td align="left"><i>status</i></td> <td align="left">since 2017 &ndash; closed </td> </tr> 
+    <tr> <td align="left"><i>status</i></td> <td align="left">since 2017 &ndash; <b>closed</b> </td> </tr> 
     <tr> <td align="left"><i>contributors</i></td> 
     <td align="left" valign="middle">
 <a href="https://github.com/gjacopo"><img src="https://github.com/gjacopo.png" width="40"></a>
