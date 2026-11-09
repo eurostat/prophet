@@ -38,7 +38,7 @@ Another example is provided by the 1-year prediction of unemployment [*une_rt_m*
     <td align="left" valign="middle">
 <a href="https://github.com/gjacopo"><img src="https://github.com/gjacopo.png" width="40"></a>
 </td> </tr> 
-    <tr> <td align="left"><i>license</i></td> <td align="left"><a href="https://joinup.ec.europa.eu/sites/default/files/eupl1.1.-licence-en_0.pdfEUPL">EUPL</a> </td> </tr> 
+    <tr> <td align="left"><i>license</i></td> <td align="left"><a href="LICENSE">EUPL</a> </td> </tr> 
 </table>
 
 **<a name="Reference"></a>Reference**
